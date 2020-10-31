@@ -93,6 +93,14 @@ textarea {
   border: none;
 }
 
+label {
+    font-family: Montserrat-Regular;
+	font-size: 14px;
+	line-height: 1.7;
+	color: Blue;
+	margin: 0px;
+}
+
 textarea:focus, input:focus {
   border-color: transparent !important;
 }

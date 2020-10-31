@@ -30,8 +30,12 @@
 
 			<form class="contact1-form validate-form" action="/predict" method="post">
 				<span class="contact1-form-title">
-					Get in touch
+					Predict Insurance Bill
 				</span>
+
+                <div class="contact1-form-title">
+                    <label > {{pred}} </label>
+                </div>
 
 				<div class="wrap-input1 validate-input" data-validate = "age is required">
 					<input class="input1" type="number" name="age" placeholder="age">
@@ -44,7 +48,7 @@
 				</div>
 
 				<div class="wrap-input1 validate-input" data-validate = "bmi is required">
-					<input class="input1" type="number" name="bmi" placeholder="bmi">
+					<input class="input1" type="text" name="bmi" placeholder="bmi">
 					<span class="shadow-input1"></span>
 				</div>
 
@@ -68,7 +72,7 @@
 				<div class="container-contact1-form-btn">
 					<button class="contact1-form-btn">
 						<span>
-							Send Email
+							Predict
 							<i class="fa fa-long-arrow-right" aria-hidden="true"></i>
 						</span>
 					</button>
