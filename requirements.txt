@@ -63,12 +63,9 @@ lightgbm==3.0.0
 llvmlite==0.34.0
 Mako==1.1.3
 MarkupSafe==1.1.1
-matplotlib==3.1.3
 mccabe==0.6.1
 missingno==0.4.2
 mistune==0.8.4
-mkl-fft==1.2.0
-mkl-random==1.1.1
 mkl-service==2.3.0
 mlflow==1.11.0
 mlxtend==0.17.3
@@ -85,7 +82,6 @@ numexpr==2.7.1
 numpy==1.18.1
 oauthlib==3.1.0
 packaging==20.4
-pandas==1.1.3
 pandas-profiling==2.9.0
 pandocfilters==1.4.2
 parso==0.7.0
@@ -128,7 +124,6 @@ requests-oauthlib==1.3.0
 retrying==1.3.3
 scikit-learn==0.23.2
 scikit-plot==0.3.7
-scipy==1.4.1
 seaborn==0.11.0
 Send2Trash==1.5.0
 sip==4.19.13
