@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3712d392-c1bb-4577-9ded-6d6d8524589a" name="Default Changelist" comment="" />
+    <list default="true" id="3712d392-c1bb-4577-9ded-6d6d8524589a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-BlackItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-ExtraBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-ExtraLight.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-Thin.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/Montserrat-ThinItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/montserrat/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/montserrat/OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
